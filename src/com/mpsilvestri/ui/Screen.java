@@ -133,11 +133,11 @@ public class Screen extends JFrame implements ActionListener {
             	
             	if (mail_accorhotels_com_br_rb.isSelected()) {
             		this.server = "4";
-            		this.api_key = "mzWsQkpGL38CEctzCe3q";
+            		this.api_key = "...e3q";
             		JOptionPane.showMessageDialog(null, "Accor Hotels selected");
             	} else if (accormail_all_com_rb.isSelected()) {
             		this.server = "4";
-            		this.api_key = "VBhPD7iIfsNScvhcc3YS";
+            		this.api_key = "...3YS";
             		JOptionPane.showMessageDialog(null, "Accor Mail selected");
             	}
             	
